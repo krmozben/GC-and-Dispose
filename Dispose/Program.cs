@@ -7,6 +7,7 @@ GC.Collect();
 Console.ReadLine();
 
 
+//GC(garbage collector) nin temizleyeceği nesnenin bir referansa bağlı olmaması gerektiği için sınıf oluşturma işlemini farklı bir metod da yapıyoruz
 void calistir()
 {
     // birinci test etme yöntemi
